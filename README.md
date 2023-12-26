@@ -1,6 +1,6 @@
-# Your React Project
+# Grades Auto-Filler Client
 
-Welcome to your React project! This project contains the frontend code in the "client" directory.
+Welcome to our React project!
 
 ## Getting Started
 

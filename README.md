@@ -15,5 +15,3 @@ Welcome to our React project!
 3. **Start App:**
    ```bash
    npm install 
-
-   

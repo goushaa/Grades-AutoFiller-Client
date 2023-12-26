@@ -1,22 +1,71 @@
 body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Arial', sans-serif;
-    background-color: #1e1e1e;
-    color: #ffffff;
-    height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #1e1e1e;
+  color: #ffffff;
+  height: 100vh;
 }
 
 #title {
-    text-align: center;
-    font-size: 2em;
-    margin-top: 30px;
-    margin-bottom: 30px;
+  text-align: center;
+  font-size: 2em;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 #gradeDiv {
-    border: 5px solid;
-    margin: auto;
-    width: 50%;
-    padding: 10px;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+#l1 {
+  font-size: 23px;
+  margin-bottom: 15px;
+  margin-left: 16px;
+}
+
+#in3 {
+  margin: auto;
+  width: 50%;
+  margin-left: 168px;
+  margin-bottom: 40px;
+  padding: 5px;
+  color: rgb(109, 109, 202);
+}
+
+#in4 {
+  width: 5%;
+  padding: 0px;
+  margin-left: 19px;
+  color: rgb(44, 234, 215);
+}
+
+#in5 {
+  width: 15%;
+  margin-bottom: 20px; /* Adjust the margin as needed */
+  padding: 0px;
+  color: rgb(109, 109, 202);
+}
+
+.but2 {
+  background-color: #33ac5d; /* Green background color */
+  border: none; /* Remove border */
+  color: white; /* White text color */
+  padding: 15px 32px; /* Add padding */
+  text-align: center; /* Center text */
+  text-decoration: none; /* Remove text underline */
+  display: inline-block;
+  font-size: 25px; /* Set font size */
+  margin: 0px 0px; /* Add margin */
+  cursor: pointer; /* Add cursor on hover effect */
+  border-radius: 15px; /* Optional: Add border radius for rounded corners */
+  transition: background-color 0.3s; /* Smooth transition for background color change */
+  transform: translate(-320px, 100px);
+
+  /* Add additional styles for hover effect */
+  &:hover {
+    background-color: #0c482a; /* Darker green on hover */
+  }
 }

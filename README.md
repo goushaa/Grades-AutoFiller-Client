@@ -7,11 +7,16 @@ Welcome to our React project!
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/goushaa/Grades-AutoFiller-Client.git
+   
 
-2. **Install Dependancies:**
+2. **Entering Directory:**
    ```bash
    cd Grades-AutoFiller-Client
 
-3. **Start App:**
+3. **Install Dependancies:**
    ```bash
-   npm install 
+   npm install
+
+4. **Start App:**
+   ```bash
+   npm start    

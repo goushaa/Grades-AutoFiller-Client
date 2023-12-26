@@ -6,8 +6,7 @@ Welcome to our React project!
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/goushaa/Grades-AutoFiller-Client.git
-   
+   git clone https://github.com/goushaa/Grades-AutoFiller-Client.git   
 
 2. **Entering Directory:**
    ```bash
